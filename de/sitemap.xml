@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/pastor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/pastor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/pastor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://ccgkoeln.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ccgkoeln.github.io/de/"
+                />
+  </url>
+  
+</urlset>
