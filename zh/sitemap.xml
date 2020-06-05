@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ccgkoeln.github.io/posts/2020heaven-value-3/</loc>
-    <lastmod>2020-01-04T22:50:08+00:00</lastmod>
+    <loc>https://ccgkoeln.github.io/posts/plakatte/</loc>
+    <lastmod>2020-06-05T21:34:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://ccgkoeln.github.io/</loc>
-    <lastmod>2020-01-04T22:50:08+00:00</lastmod>
+    <lastmod>2020-06-05T21:34:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://ccgkoeln.github.io/posts/</loc>
-    <lastmod>2020-01-04T22:50:08+00:00</lastmod>
+    <lastmod>2020-06-05T21:34:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -35,6 +35,11 @@
                 hreflang="zh"
                 href="https://ccgkoeln.github.io/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ccgkoeln.github.io/posts/2020heaven-value-3/</loc>
+    <lastmod>2020-01-04T22:50:08+00:00</lastmod>
   </url>
   
   <url>
