@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>科隆华人基督徒团契 on Chinesische Christliche Gemeinde Köln</title>
+    <title>科隆华人基督教会 on Chinesische Christliche Gemeinde Köln</title>
     <link>https://koeln-ccg.de/de/</link>
-    <description>Recent content in 科隆华人基督徒团契 on Chinesische Christliche Gemeinde Köln</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://koeln-ccg.de/de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <description>Recent content in 科隆华人基督教会 on Chinesische Christliche Gemeinde Köln</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://koeln-ccg.de/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt</title>
       <link>https://koeln-ccg.de/de/contact/</link>

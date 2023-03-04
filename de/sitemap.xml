@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://koeln-ccg.de/de/posts/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/pastor/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/pastor/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="de"
                 href="https://koeln-ccg.de/de/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://koeln-ccg.de/de/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,5 +86,4 @@
                 href="https://koeln-ccg.de/de/"
                 />
   </url>
-  
 </urlset>
