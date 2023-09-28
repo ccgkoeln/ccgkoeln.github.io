@@ -4,6 +4,10 @@
     <title>Bibelcamp und Aktivität on Chinesische Christliche Gemeinde Köln</title>
     <link>https://koeln-ccg.de/de/posts/</link>
     <description>Recent content in Bibelcamp und Aktivität on Chinesische Christliche Gemeinde Köln</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://koeln-ccg.de/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://koeln-ccg.de/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
