@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://koeln-ccg.de/posts/%E9%A9%AC%E5%A4%AA%E7%9A%84%E9%A5%AD%E5%B1%80/</loc>
+    <lastmod>2023-10-13T20:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://koeln-ccg.de/</loc>
+    <lastmod>2023-10-13T20:15:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://koeln-ccg.de/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://koeln-ccg.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://koeln-ccg.de/posts/</loc>
+    <lastmod>2023-10-13T20:15:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://koeln-ccg.de/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://koeln-ccg.de/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://koeln-ccg.de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -59,20 +94,6 @@
   </url>
   
   <url>
-    <loc>https://koeln-ccg.de/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://koeln-ccg.de/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://koeln-ccg.de/"
-                />
-  </url>
-  
-  <url>
     <loc>https://koeln-ccg.de/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -83,20 +104,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://koeln-ccg.de/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://koeln-ccg.de/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://koeln-ccg.de/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://koeln-ccg.de/posts/"
                 />
   </url>
   
