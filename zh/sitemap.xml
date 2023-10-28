@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://koeln-ccg.de/fellowship/</loc>
+    <lastmod>2023-10-28T10:44:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://koeln-ccg.de/de/fellowship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://koeln-ccg.de/fellowship/"
+                />
+  </url>
+  
+  <url>
     <loc>https://koeln-ccg.de/</loc>
-    <lastmod>2023-10-22T08:28:07+02:00</lastmod>
+    <lastmod>2023-10-28T10:44:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,8 +33,13 @@
   </url>
   
   <url>
+    <loc>https://koeln-ccg.de/posts/28.10.2023/</loc>
+    <lastmod>2023-10-28T10:29:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://koeln-ccg.de/posts/</loc>
-    <lastmod>2023-10-22T08:28:07+02:00</lastmod>
+    <lastmod>2023-10-28T10:29:53+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
