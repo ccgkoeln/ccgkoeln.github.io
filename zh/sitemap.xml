@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://koeln-ccg.de/</loc>
-    <lastmod>2023-11-24T14:20:32+01:00</lastmod>
+    <lastmod>2024-10-01T22:47:40+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://koeln-ccg.de/posts/sa1/</loc>
+    <lastmod>2024-10-01T22:47:40+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://koeln-ccg.de/posts/</loc>
-    <lastmod>2023-11-24T14:20:32+01:00</lastmod>
+    <lastmod>2024-10-01T22:47:40+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -30,6 +35,11 @@
                 hreflang="zh"
                 href="https://koeln-ccg.de/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://koeln-ccg.de/posts/sa2/</loc>
+    <lastmod>2024-10-01T22:46:55+02:00</lastmod>
   </url>
   
   <url>
